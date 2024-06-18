@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: ccd8a2ee-e62e-4946-a181-87070312ec52
+      url: 'https://wanshu.quarto.pub/course3'
+    - id: 159a9dfd-cffb-47ec-ace9-c831ba2c69c1
+      url: 'https://wanshu.quarto.pub/course3'
